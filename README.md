@@ -1,3 +1,3 @@
-# OpenSim
+# OpenSim and Reinforcement Learning
 
 Ongoing Project
